@@ -6,8 +6,8 @@ log using pos.log, replace
 clear
 
 * use POS data from these years
-global STARTYEAR = 1993
-global ENDYEAR = 2017
+global STARTYEAR = 1996
+global ENDYEAR = 2018
 
 **** source of POS data ***
 
